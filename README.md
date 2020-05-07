@@ -1,5 +1,5 @@
 # brilliantKitchen
->Bootstrap + HTML5 + CSS3, Compatible with Chrome.There are some interface as follows.
+>Bootstrap + HTML5 + CSS3, Compatible with Chrome, Responsive web design. There are some interface as follows.
 
 > Homepage
 
